@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jan 6, 2016
+### Day 1: Jan 6, 2017
 
 **Today's Progress**: Finished up the base of my asteroids clone
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
 
-### Day 2: Jan 7, 2016
+### Day 2: Jan 7, 2017
 
 **Today's Progress**: Tried to implement multiple shots
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
 
-### Day 3: Jan 8, 2016
+### Day 3: Jan 8, 2017
 
 **Today's Progress**: kind of implemented multiple shots!
 
@@ -24,7 +24,7 @@
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
 
-### Day 4: Jan 9, 2016
+### Day 4: Jan 9, 2017
 
 **Today's Progress**: did some pair programming
 
@@ -32,7 +32,7 @@
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
 
-### Day 5: Jan 11, 2016
+### Day 5: Jan 11, 2017
 
 **Today's Progress**: one shot added to the array per press
 
@@ -40,10 +40,18 @@
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
 
-### Day 6: Jan 12, 2016
+### Day 6: Jan 12, 2017
 
 **Today's Progress**: multi shot now active, colisions repairs, code cleaned up a bit.
 
 **Thoughts:** on a tangential note, I find myself having a 2nd wind from 9pm to 11pm - more able to work after work than before.   
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 7: Jan 13, 2017
+
+**Today's Progress**:  start of scoring system in place
+
+**Thoughts:** got the hour in, despite being really tired. yay more stamina.   
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)

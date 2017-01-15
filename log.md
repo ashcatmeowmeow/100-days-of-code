@@ -55,3 +55,11 @@
 **Thoughts:** got the hour in, despite being really tired. yay more stamina.   
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 8: Jan 14, 2017
+
+**Today's Progress**:  scoring system set up, multiplier for consecutive shots
+
+**Thoughts:** might wanna refactor this at another point  
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)

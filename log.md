@@ -63,3 +63,11 @@
 **Thoughts:** might wanna refactor this at another point  
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 8: Jan 14, 2017
+
+**Today's Progress**:  created an instance of an asteroid
+
+**Thoughts:** rn it speeds up infinitely, need to apply the same friction that the ship uses. 
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)

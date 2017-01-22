@@ -79,3 +79,19 @@
 **Thoughts:** was surprisingly easy.  
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 11: Jan 18, 2017
+
+**Today's Progress**:  not too much x.x
+
+**Thoughts:** found a bug in my collider loop - if i hit a UFO, the ship fires endlessly  
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 12: Jan 22, 2017
+
+**Today's Progress**:  fixed the bug in the collider loop
+
+**Thoughts:** kinda lost my streak, but tying to get back on it.   
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)

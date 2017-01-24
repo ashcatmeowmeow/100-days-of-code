@@ -95,3 +95,11 @@
 **Thoughts:** kinda lost my streak, but tying to get back on it.   
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 13: Jan 23, 2017
+
+**Today's Progress**:  collider loop now in a separate file
+
+**Thoughts:** got the streak back!   
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)

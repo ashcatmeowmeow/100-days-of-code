@@ -103,3 +103,27 @@
 **Thoughts:** got the streak back!   
 
 **Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 14: Jan 23, 2017
+
+**Today's Progress**:  steps towards splitting the asteroids apart when destroyed
+
+**Thoughts:** I can delete the collider from the collider array, but the asteroids are still being drawn, and animated. Need to act on their objects in main.js I think.    
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 15: Jan 28, 2017
+
+**Today's Progress**:  retroactive post, can't remember.
+
+**Thoughts:** *  
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
+
+### Day 16: Jan 30, 2017
+
+**Today's Progress**:  Solved the shot speed problem, but now my spawning seems to be off.
+
+**Thoughts:** I'm at least at the point where I can miss a few days, and I'm not coming back to things a clueless mess. 
+
+**Link to work:** [space-battle](https://github.com/ashcatmeowmeow/space-battle)
